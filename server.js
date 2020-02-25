@@ -1,6 +1,11 @@
 const express = require('express')
+const connectDB = require('./config/db')
 
 const app = express();
+
+// connectdb
+
+connectDB()
 
 app.get('/',(req, res) => res.json({msg:"welcom to node"}))
 

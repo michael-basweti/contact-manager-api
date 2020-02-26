@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://basweti:basweti@contactkeeper-purgv.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret":"lakljjkhjkxnbuuegxbyewrgucfygr7gycbh8973286482"
+}
